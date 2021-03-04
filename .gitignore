@@ -1,0 +1,6 @@
+# Essentials 
+*.txt
+
+# User Preference
+.DS_Store
+
